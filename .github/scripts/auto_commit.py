@@ -107,7 +107,7 @@ def create_useless_commit():
         print(f"❌ Ошибка создания бесполезного коммита: {e}")
 
 def main():
-    username = os.getenv('GITHUB_USERNAME')
+    username = os.getenv('USERNAME')
     token = os.getenv('GH_TOKEN')
     
     if not username or not token:
