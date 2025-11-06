@@ -23,10 +23,10 @@ jobs:
         run: pip install requests
           
       - name: Generate commits with quotes
-        run: python .github/scripts/auto_commit.py
         env:
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          USERNAME: ${{ secrets.USERNAME }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python .github/scripts/auto_commit.py
           
       - name: Push changes
         run: |
