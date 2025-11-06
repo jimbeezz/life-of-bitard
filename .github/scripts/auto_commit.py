@@ -44,7 +44,7 @@ def check_today_activity(username, token):
             for event in events:
                 event_date = datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ').date()
                 if event_date == today and event['type'] in ['PushEvent', 'CommitCommentEvent']:
-                    return Falce
+                    return True
     except Exception as e:
         print(f"Ошибка проверки активности: {e}")
     
