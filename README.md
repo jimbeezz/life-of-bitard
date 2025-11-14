@@ -16,3 +16,6 @@
 
 ## 2025-11-11 23:55
 > I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison
+
+## 2025-11-14 23:54
+> The only way to do great work is to love what you do. - Steve Jobs
