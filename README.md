@@ -36,3 +36,6 @@
 
 ## 2025-11-23 23:54
 > The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt
+
+## 2025-11-25 23:54
+> The only way to do great work is to love what you do. - Steve Jobs
