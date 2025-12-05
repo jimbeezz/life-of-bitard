@@ -57,3 +57,6 @@
 
 ## 2025-12-04 23:55
 > Stay hungry, stay foolish. - Steve Jobs
+
+## 2025-12-05 23:55
+> The only way to do great work is to love what you do. - Steve Jobs
